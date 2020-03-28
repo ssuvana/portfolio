@@ -9,6 +9,7 @@ body {
     
     margin: 0 auto;
     background-color: #151515;
+    height: inherrit;
 }
 #logo {
     text-align: center;
@@ -51,6 +52,9 @@ body {
     width: auto;
     display: inline-block;
 }
+}
+
+
 footer {
     position: relative;
     margin-bottom: 0px;
